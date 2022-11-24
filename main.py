@@ -9,7 +9,6 @@ print("3. Abdomen")
 print("4. Cardio")
 
 ejercicios=int(input("\nDigite su opcion: "))
-info=""
 
 #PROCESAMIENTO
 if(ejercicios==1):
